@@ -14,15 +14,7 @@ $verified = $row['verified'];
 
 	<style type="text/css">
     /* Style the dropdown button */
-.dropbtn {
-  background-color: #4CAF50;
-  color: white;
-  padding: 16px;
-  font-size: 16px;
-  border: none;
-  cursor: pointer;
-}
-
+.
 /* Style the dropdown content (hidden by default) */
 .dropdown-content {
   display: none;
